@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/OftewelJustin/ReactJS-Portfolio/static/css/main.37be8780.css",
+    "main.js": "/OftewelJustin/ReactJS-Portfolio/static/js/main.be62cca1.js",
+    "static/js/787.dd42cfe0.chunk.js": "/OftewelJustin/ReactJS-Portfolio/static/js/787.dd42cfe0.chunk.js",
+    "static/media/glu_pf_overview.png": "/OftewelJustin/ReactJS-Portfolio/static/media/glu_pf_overview.50314e0264bd1a727157.png",
+    "static/media/pf_justin.png": "/OftewelJustin/ReactJS-Portfolio/static/media/pf_justin.04c3a1df04be6c58118e.png",
+    "static/media/damage_calc_thumb.png": "/OftewelJustin/ReactJS-Portfolio/static/media/damage_calc_thumb.277667589a61fb3d17b7.png",
+    "static/media/swearword_filter.png": "/OftewelJustin/ReactJS-Portfolio/static/media/swearword_filter.da81c09a34bb8ddd6b7c.png",
+    "index.html": "/OftewelJustin/ReactJS-Portfolio/index.html",
+    "main.37be8780.css.map": "/OftewelJustin/ReactJS-Portfolio/static/css/main.37be8780.css.map",
+    "main.be62cca1.js.map": "/OftewelJustin/ReactJS-Portfolio/static/js/main.be62cca1.js.map",
+    "787.dd42cfe0.chunk.js.map": "/OftewelJustin/ReactJS-Portfolio/static/js/787.dd42cfe0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37be8780.css",
+    "static/js/main.be62cca1.js"
+  ]
+}
